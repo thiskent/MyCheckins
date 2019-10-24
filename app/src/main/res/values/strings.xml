@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyCheckins</string>
+    <string name="my_checkins">My Checkins</string>
+    <string name="checkin_coordinates">CheckIn Coordinates:</string>
+    <string name="no_record_found">No Record Found!</string>
+    <string name="checkin">CheckIn</string>
+    <string name="help">Help</string>
+    <string name="check_in">Check-In</string>
+    <string name="add_date">Add Date</string>
+    <string name="show_on_map">Show On Map</string>
+    <string name="my_location">My Location</string>
+    <string name="description">Description</string>
+    <string name="place">Place</string>
+    <string name="title">Title</string>
+    <string name="save">Save</string>
+    <string name="field_required">Field Required</string>
+    <string name="nulll">null</string>
+</resources>
